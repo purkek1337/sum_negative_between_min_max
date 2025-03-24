@@ -3,7 +3,7 @@
 Установка и использование.
 
 1. Клонируйте репозиторий:
-git clone https://github.com/your_username/array_negative_sum.git
+git clone https://github.com/purkek1337/sum_negative_between_min_max.git
 
 3. Запустите программу:
 python main.py
