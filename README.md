@@ -4,6 +4,8 @@
 
 1. Клонируйте репозиторий:<br>git clone https://github.com/purkek1337/sum_negative_between_min_max.git
 
+2. Перейдите в директорию проекта:<br>cd sum_negative_between_min_max
+
 3. Запустите программу:<br>python main.py
 
 4. Введите элементы массива через пробел.<br>Пример:<br>Введите элементы массива через пробел: 2 -5 3 -1 4
